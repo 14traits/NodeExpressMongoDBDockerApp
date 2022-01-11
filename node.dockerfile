@@ -19,7 +19,7 @@
 
 FROM        node:alpine
 
-LABEL       author="Dan Wahlin"
+LABEL       author="John Rogers"
 
 ARG         PACKAGES=nano
 
